@@ -8,7 +8,32 @@
 </p>
 
 
-##Servidor Laravel Restfull
+##Serv Laravel Restfull PORTUGUESE AND ENGLISH
+
+##Restfull server made in Laravel for users consumption.
+
+1 - git clone https://github.com/thurdelima/Laravel-Restfull.git server
+
+2 - Enter the repository server
+
+3 - Configure the database in the .env.example file (rename to .env)
+
+4- Enter and run the command composer install and php artisan key: generate
+
+5 - Enter and run the php artisan migrate command (connected database!)
+
+6 - Enter and run php artisan passport: install command
+
+7 - Copy the generated ids and paste clients without any file keys (save as a precaution)
+
+8 - Run php artisan serve command
+
+9 - Click registration, create an account
+
+10 - Once you create an account, create a personal access token (use the device to detect server consumption in the front). If there is a problem, create an oauth and then personal access.
+
+11 - Download the Angular Client  for Laravel Restfull repository to perform the consumption.
+
 
 ##Servidor restfull feito em Laravel para consumo de usuários.
 
